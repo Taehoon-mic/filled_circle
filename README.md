@@ -1,2 +1,4 @@
 # filled_circle
-making matrix with python
+Making matrix with python
+
+The objective of this repository is to draw a filled circle in a matrix.
